@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Walter",
+        "apellido": "Borsoi",
+        "documento": "41195245",
+        "rol": "Vecino"
+    },
+    {
+        "nombre": "Inspector",
+        "apellido": "Garcia",
+        "documento": "1078362",
+        "rol": "Inspector"
+    }
+]

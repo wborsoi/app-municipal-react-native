@@ -1,0 +1,39 @@
+{
+    "id": 12,
+    "estado": "En revision",
+    "ubicacion": {
+        "calle": "Polonia",
+        "numero": "777",
+        "latitud": 1234,
+        "longitud": 4321
+    },
+    "descripcion": "Luz de la calle ubicada en la esquina de Merlo y Polonia esta rota.",
+    "adjuntos": [
+        {
+            "id": 1
+        },
+        {
+            "id": 2
+        }
+    ],
+    "comentarios": [
+        {
+            "id": 1,
+            "responsable": "Carlos Sanchez",
+            "causa": "Se registró el reclamo",
+            "fecha": "16/11/2021"
+        },
+        {
+            "id": 2,
+            "responsable": "Cristian Gonzalez",
+            "causa": "Se aprobo el reclamo",
+            "fecha": "17/11/2021"
+        },
+        {
+            "id": 3,
+            "responsable": "Jonatan Cantero",
+            "causa": "El reclamo esta siendo revisado por nuestro equipo tecnico",
+            "fecha": "18/11/2021"
+        }
+    ]
+}
